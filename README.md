@@ -1,2 +1,2 @@
-# templete-react
+# template-react
 Create project with react
